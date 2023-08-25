@@ -1,5 +1,5 @@
 <h1>React Concepts Deep Dive<h1>
-Welcome to the React Concepts Deep Dive repository! Here, you'll embark on an enriching journey through the heart of React JS, exploring its fundamental concepts and advanced techniques. This repository is a comprehensive resource that encapsulates the essence of React's paradigm-shifting architecture.
+Welcome to the React Concepts Deep Dive repository! Here, you'll embark on an enriching journey through the heart of React JS, exploring its fundamental concepts and advanced techniques. This repository is a comprehensive resource that encapsulates the essence of React's paradigm-shifting architecture
 
 <h1>Unveiling React's Essence<h1>
 Dive into the intricacies that power modern web development with React. This repository serves as your guide to understanding and mastering the building blocks of React's declarative, efficient, and flexible JavaScript library.
